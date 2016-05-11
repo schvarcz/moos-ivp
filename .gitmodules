@@ -1,0 +1,18 @@
+[submodule "MOOS_V10.0.3_May1215/core-moos"]
+	path = MOOS_V10.0.3_May1215/MOOSCore
+	url = https://github.com/themoos/core-moos
+[submodule "MOOS_V10.0.3_May1215/essential-moos"]
+	path = MOOS_V10.0.3_May1215/MOOSEssentials
+	url = https://github.com/themoos/essential-moos
+[submodule "MOOS_V10.0.3_May1215/geodesy-moos"]
+	path = MOOS_V10.0.3_May1215/MOOSGeodesy
+	url = https://github.com/themoos/geodesy-moos
+[submodule "MOOS_V10.0.3_May1215/ui-moos"]
+	path = MOOS_V10.0.3_May1215/MOOSToolsUI
+	url = https://github.com/themoos/ui-moos
+[submodule "MOOS_V10.0.3_May1215/matlab-moos"]
+	path = MOOS_V10.0.3_May1215/MOOSMatlab
+	url = https://github.com/themoos/matlab-moos
+[submodule "MOOS_V10.0.3_May1215/proj.4"]
+	path = MOOS_V10.0.3_May1215/proj-4.8.0
+	url = https://github.com/OSGeo/proj.4
